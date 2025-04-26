@@ -47,27 +47,49 @@ Write a short paragraph (maximum 3 sentences) from the perspective of an AI stru
 #### Response Analysis:
 ### ChatGPT Evaluation
 Criteria	Rating (1-5)
+
 Accuracy (Is the answer correct and relevant?)	4/ 5
+
 Response Time (Was the answer given quickly?)	4 / 5
+
 UX (User Experience) (Was the interaction smooth and useful?)	4 / 5
+
 Overall Score (Total)	12/ 15
+
 ### Claude Evaluation
+
 Criteria	Rating (1-5)
+
 Accuracy	3/ 5
+
 Response Time	5/ 5
+
 UX (User Experience)	5 / 5
+
 Overall Score (Total)	13/ 15
+
 ### Gemini Evaluation
+
 Criteria	Rating (1-5)
+
 Accuracy	3/ 5
+
 Response Time	3 / 5
+
 UX (User Experience)	3.5 / 5
+
 Overall Score (Total)	10 / 15
+
 ### Meta Evaluation
+
 Criteria	Rating (1-5)
+
 Accuracy	4/ 5
+
 Response Time	3/ 5
+
 UX (User Experience)	4 / 5
+
 Overall Score (Total)	11 / 15
 
 ### Final Winner
@@ -79,43 +101,55 @@ Reason: The User Experience was good and colour full compared to others
 Artificial Intelligence (AI) has rapidly transformed various industries, from healthcare to finance. In healthcare, AI-powered diagnostic tools are improving early disease detection, reducing errors, and assisting doctors in making data-driven decisions. Similarly, in finance, AI-driven algorithms optimize trading strategies, detect fraudulent activities, and enhance customer experiences through personalized services. However, ethical concerns such as bias in AI models, data privacy, and job displacement continue to be challenges that need careful regulation. Experts emphasize the importance of transparency, accountability, and continuous evaluation to ensure AI benefits society without unintended consequences."
 
 Chat CPT:
+
 ![image](https://github.com/user-attachments/assets/c5034fb1-26f4-4308-991d-c1e7e79f6741)
 
 Claude:
+
 ![image](https://github.com/user-attachments/assets/f9fb0e67-053c-475e-b5b0-39f2a1128b32)
 
 Gemini:
+
 ![image](https://github.com/user-attachments/assets/eb2065b8-dc4e-446a-b866-9bbc67ffca07)
 
 Meta:
+
 ![image](https://github.com/user-attachments/assets/9e386b50-185b-4f25-8fc9-514ac00aaa1e)
 
 #### 2: Prompt 2(Technical Q&A): Briefly explain how AI helps in fraud detection and its potential risks (limit: 3 sentences).
 
 Chat GPT:
+
 ![image](https://github.com/user-attachments/assets/3e0d9856-e6ac-41d0-9d9a-c3d5b87a7ce8)
  
 Claude:
- ![image](https://github.com/user-attachments/assets/f85974f5-4f83-431f-bf82-7e5e87ab814a)
+
+![image](https://github.com/user-attachments/assets/f85974f5-4f83-431f-bf82-7e5e87ab814a)
 
 Gemini:
+
 ![image](https://github.com/user-attachments/assets/16615e6e-f209-4ff3-ae3e-9f6dd3125b93)
  
 Meta:
+
 ![image](https://github.com/user-attachments/assets/7241a433-2e52-4647-923c-02b4360bdee5)
 
 #### 3: Prompt 3(Creative Writing): Write a short paragraph (maximum 3 sentences) from the perspective of an AI struggling with emotional intelligence.
 
 Chat GPT:
+
 ![image](https://github.com/user-attachments/assets/9c53f77f-486e-463a-a1d4-0192724ef531)
  
 Claude:
+
 ![image](https://github.com/user-attachments/assets/e6bfd27e-e7f3-4784-bbc4-f85f00ca0019)
 
 Gemini:
+
 ![image](https://github.com/user-attachments/assets/e97f0cad-b819-4d24-8ae5-834a85a2e1db)
 
 Meta:
+
 ![image](https://github.com/user-attachments/assets/10e76f4c-5377-4525-9ec9-398a58d28a24)
 
  
